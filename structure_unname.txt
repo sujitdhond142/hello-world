@@ -1,0 +1,15 @@
+//This is android project 
+
+project features
+1.simple gui
+2.user can see all accounts
+3.user can see individual acount's all info
+4.account closure and startup
+5.individuals info include :money,date,for what,other
+6.about
+7.tutorial(last step)
+
+
+project menu
+1.
+2.
