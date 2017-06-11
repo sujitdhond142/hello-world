@@ -11,5 +11,12 @@ project features
 
 
 project menu
-1.
-2.
+1.accounts
+  1.1 show all accounts and ask to give/take money to account
+2.show individually
+  2.1 show list of all accounts and money to give to/take from them
+3.help
+  3.1 show how to use guide
+  3.2 show features
+4.about
+  4.1 show version info and whats new
